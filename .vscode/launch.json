@@ -1,0 +1,616 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "ArrayList1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "ArrayList2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList3",
+            "request": "launch",
+            "mainClass": "ArrayList3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList4",
+            "request": "launch",
+            "mainClass": "ArrayList4",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList5",
+            "request": "launch",
+            "mainClass": "ArrayList5",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList6",
+            "request": "launch",
+            "mainClass": "ArrayList6",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAlgo1",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAlgo2",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAlgo3",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "ColNoFixed",
+            "request": "launch",
+            "mainClass": "ColNoFixed",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort01",
+            "request": "launch",
+            "mainClass": "CyclicSort01",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort02",
+            "request": "launch",
+            "mainClass": "CyclicSort02",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort03",
+            "request": "launch",
+            "mainClass": "CyclicSort03",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort04",
+            "request": "launch",
+            "mainClass": "CyclicSort04",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort05",
+            "request": "launch",
+            "mainClass": "CyclicSort05",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort06",
+            "request": "launch",
+            "mainClass": "CyclicSort06",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteArray",
+            "request": "launch",
+            "mainClass": "InfiniteArray",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LeetcodeQ1",
+            "request": "launch",
+            "mainClass": "LeetcodeQ1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LeetcodeQ2",
+            "request": "launch",
+            "mainClass": "LeetcodeQ2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo1",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo2",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo3",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo4",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo4",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo5",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo5",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo6",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo6",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo7",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo7",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortRec",
+            "request": "launch",
+            "mainClass": "MergeSortRec",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "OnesComplement",
+            "request": "launch",
+            "mainClass": "OnesComplement",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "OrderAgnosticBS",
+            "request": "launch",
+            "mainClass": "OrderAgnosticBS",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "Q10",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q11",
+            "request": "launch",
+            "mainClass": "Q11",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q12",
+            "request": "launch",
+            "mainClass": "Q12",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q13",
+            "request": "launch",
+            "mainClass": "Q13",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q14",
+            "request": "launch",
+            "mainClass": "Q14",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q15",
+            "request": "launch",
+            "mainClass": "Q15",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q16",
+            "request": "launch",
+            "mainClass": "Q16",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q17",
+            "request": "launch",
+            "mainClass": "Q17",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q8",
+            "request": "launch",
+            "mainClass": "Q8",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "Q9",
+            "request": "launch",
+            "mainClass": "Q9",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "RotetedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotetedBinarySearch",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "RowColMatrix",
+            "request": "launch",
+            "mainClass": "RowColMatrix",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "SortedMatrix",
+            "request": "launch",
+            "mainClass": "SortedMatrix",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder3",
+            "request": "launch",
+            "mainClass": "StringBuilder3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderCreate",
+            "request": "launch",
+            "mainClass": "StringBuilderCreate",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderCreate2",
+            "request": "launch",
+            "mainClass": "StringBuilderCreate2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "array_1",
+            "request": "launch",
+            "mainClass": "array_1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "finobiNo",
+            "request": "launch",
+            "mainClass": "finobiNo",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "palidromeCheck",
+            "request": "launch",
+            "mainClass": "palidromeCheck",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "rainbow",
+            "request": "launch",
+            "mainClass": "rainbow",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion10",
+            "request": "launch",
+            "mainClass": "recursion10",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion11",
+            "request": "launch",
+            "mainClass": "recursion11",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion12",
+            "request": "launch",
+            "mainClass": "recursion12",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion13",
+            "request": "launch",
+            "mainClass": "recursion13",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion14",
+            "request": "launch",
+            "mainClass": "recursion14",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion15",
+            "request": "launch",
+            "mainClass": "recursion15",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion16",
+            "request": "launch",
+            "mainClass": "recursion16",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion17",
+            "request": "launch",
+            "mainClass": "recursion17",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion18",
+            "request": "launch",
+            "mainClass": "recursion18",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion19",
+            "request": "launch",
+            "mainClass": "recursion19",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion2",
+            "request": "launch",
+            "mainClass": "recursion2",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion20",
+            "request": "launch",
+            "mainClass": "recursion20",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion21",
+            "request": "launch",
+            "mainClass": "recursion21",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion3",
+            "request": "launch",
+            "mainClass": "recursion3",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion4",
+            "request": "launch",
+            "mainClass": "recursion4",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion5",
+            "request": "launch",
+            "mainClass": "recursion5",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion6",
+            "request": "launch",
+            "mainClass": "recursion6",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion7",
+            "request": "launch",
+            "mainClass": "recursion7",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion8",
+            "request": "launch",
+            "mainClass": "recursion8",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "recursion9",
+            "request": "launch",
+            "mainClass": "recursion9",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "sortArray",
+            "request": "launch",
+            "mainClass": "sortArray",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "twoDarray",
+            "request": "launch",
+            "mainClass": "twoDarray",
+            "projectName": "DSA in java_44635396"
+        },
+        {
+            "type": "java",
+            "name": "twoDarray1",
+            "request": "launch",
+            "mainClass": "twoDarray1",
+            "projectName": "DSA in java_44635396"
+        }
+    ]
+}
